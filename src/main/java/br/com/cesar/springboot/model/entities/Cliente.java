@@ -1,4 +1,4 @@
-package br.com.cesar.springboot.models;
+package br.com.cesar.springboot.model.entities;
 
 public class Cliente {
 

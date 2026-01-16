@@ -1,7 +1,7 @@
 package br.com.cesar.springboot.controllers;
 
 import org.springframework.web.bind.annotation.RestController;
-import br.com.cesar.springboot.models.Cliente;
+import br.com.cesar.springboot.model.entities.Cliente;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
